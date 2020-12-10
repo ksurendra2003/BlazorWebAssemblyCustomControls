@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorCustomControls", "BlazorCustomControls\BlazorCustomControls.csproj", "{9304B0DE-9CA7-4F52-B757-CC8776842B4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssemblyCustomControls", "BlazorWebAssemblyCustomControls\BlazorWebAssemblyCustomControls.csproj", "{75BAAEAE-395F-4EBE-8C16-F13C0397F356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9304B0DE-9CA7-4F52-B757-CC8776842B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9304B0DE-9CA7-4F52-B757-CC8776842B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9304B0DE-9CA7-4F52-B757-CC8776842B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9304B0DE-9CA7-4F52-B757-CC8776842B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BAAEAE-395F-4EBE-8C16-F13C0397F356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BAAEAE-395F-4EBE-8C16-F13C0397F356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BAAEAE-395F-4EBE-8C16-F13C0397F356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BAAEAE-395F-4EBE-8C16-F13C0397F356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E233BAE-4E42-49B5-A049-E2E9F837EAA5}
+	EndGlobalSection
+EndGlobal
